@@ -1,1 +1,4 @@
-
+#%%writefile requirements.txt
+streamlit >= 1.36
+pandas >= 5.20
+plotly >= 2.0
