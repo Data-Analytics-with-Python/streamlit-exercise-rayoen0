@@ -45,5 +45,5 @@ if show pie:
   )
   fig_pie.update_layout(
     title_x=8.5,
-    height = 300
+    height = 300)
 co12. plotly_chart(fig_pie, use_container width=True)
